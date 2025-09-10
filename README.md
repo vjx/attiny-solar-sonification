@@ -2,6 +2,7 @@ Solar Cell Sonification with ATtiny
 Description
 
 This project uses an ATtiny microcontroller to sonify the output of a solar cell through a buzzer. The system reads the voltage from the solar cell and generates sound based on the energy levels, providing real-time audio feedback.
+
 Features
 
     Reads analog values from a solar cell.
